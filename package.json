@@ -1,0 +1,18 @@
+{
+  "name": "polymer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nws"
+  },
+  "dependencies": {
+    "@polymer/iron-flex-layout": "^0.0.3",
+    "@polymer/iron-icons": "^0.0.3",
+    "@polymer/paper-drawer-panel": "^0.0.3",
+    "@polymer/paper-header-panel": "^0.0.3",
+    "@polymer/paper-icon-button": "^0.0.3",
+    "@polymer/paper-toolbar": "^0.0.3",
+    "nws": "^1.1.1"
+  }
+}
